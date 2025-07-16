@@ -39,7 +39,7 @@ const NRI_Services = () => {
           they are worth and can easily sell the property if required. We are
           backed by an efficient and experienced team that has been attached to
           the industry for many years now. You can trust and rely on us to do
-          the job most honourably.
+          the job most honourably .
         </p>
       </section>
       <EnquiryForm />
