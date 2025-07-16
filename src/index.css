@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #f5ffff;
+
+}
+
+body::-webkit-scrollbar{
+  width: 0;
+}
+
+/* Zoom effect on hover with zoom-in cursor */
+.zoom-hover {
+  cursor: zoom-in;
+  transition: transform 0.3s ease;
+}
+
+.zoom-hover:hover {
+  transform: scale(1.1);
+}
+
+
+
+#chatbox {
+      width: 300px;
+      height: 400px;
+      border: 1px solid #ccc;
+      padding: 10px;
+      overflow-y: auto;
+      background: #f9f9f9;
+      font-family: Arial;
+    }
+    .bot, .user {
+      margin: 10px 0;
+    }
+    .bot { color: #007BFF; }
+    .user { text-align: right; color: #333; }
