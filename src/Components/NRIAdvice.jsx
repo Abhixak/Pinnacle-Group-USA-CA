@@ -7,11 +7,11 @@ const NRIAdvice = () => {
     "CAN A NRI SELL PROPERTY IN INDIA?",
     "IS BUYING PROPERTY IN INDIA A GOOD INVESTMENT?",
     "STAY ANYWHERE IN THE WORLD, DEAL IN INDIA",
-    "SELLING PROPERTY IN INDIA FROM USA OR CA?",
+    "SELLING PROPERTY IN INDIA FROM USA OR Canada?",
     "PLANNING TO BUY PROPERTY IN INDIA AS AN NRI? HERE'S HOW TO SAVE ON TAXES.",
     "THINKING OF TRANSFERRING PROPERTY OWNERSHIP?",
-    "DO YOU WANT TO BUY OR SELL PROPERTY IN INDIA FROM USA OR CA?",
-    "ARE YOU AN NRI LOOKING TO INVEST IN REAL ESTATE IN INDIA, USA OR CA?",
+    "DO YOU WANT TO BUY OR SELL PROPERTY IN INDIA FROM USA OR Canada?",
+    "ARE YOU AN NRI LOOKING TO INVEST IN REAL ESTATE IN INDIA, USA OR Canada?",
   ];
 
   const Description = [
@@ -21,19 +21,19 @@ const NRIAdvice = () => {
 3️⃣ Long-Term Capital Growth ⏳
 4️⃣ Supportive Government Policies 🏛️
 5️⃣ Perfect for NRIs 🌍
-Looking to invest from the USA, CA? Pinnacle Group makes it easy to get started with expert guidance!`,
+Looking to invest from the USA, Canada? Pinnacle Group makes it easy to get started with expert guidance!`,
 
     `Absolutely! India’s real estate market is ideal for long-term investment.
 🏡 Competitive prices, 📈 strong appreciation in metro cities, 💼 NRI-friendly policies, and 🏦 high rental demand make it a smart choice.
-👉 Pinnacle Group is here to guide your property journey from the USA, CA.`,
+👉 Pinnacle Group is here to guide your property journey from the USA, Canada.`,
 
-    `Managing property in India while living in the USA, CA? Here’s why Power of Attorney is a game-changer:
+    `Managing property in India while living in the USA, Canada? Here’s why Power of Attorney is a game-changer:
 ✔️ No Travel, All Control
 ✔️ Faster Transactions
 ✔️ Protect Your Property
 Need assistance? Contact Pinnacle Group today!`,
 
-    `Selling Property in India While Living in USA/CA? Here’s What You Need to Know! 
+    `Selling Property in India While Living in USA/Canada? Here’s What You Need to Know! 
 1️⃣ Market trends can increase profits.
 2️⃣ Keep legal documents ready.
 3️⃣ Hire a trusted agent in India.
@@ -50,10 +50,10 @@ Pinnacle Group provides expert guidance and smooth service for buying, selling, 
 Ready to begin? Contact us today!`,
 
     `Real estate provides steady income, appreciation, and inflation protection.
-We at Pinnacle Group help NRIs in the USA and CA buy or sell property in India seamlessly through virtual tours, expert guidance, and hassle-free paperwork.`,
+We at Pinnacle Group help NRIs in the USA and Canada buy or sell property in India seamlessly through virtual tours, expert guidance, and hassle-free paperwork.`,
 
     `The Indian government offers favourable NRI laws, but legalities like FEMA/RBI can be tricky.
-Whether it’s India, CA or the USA, we simplify investments with tax benefits and expert help.
+Whether it’s India, Canada or the USA, we simplify investments with tax benefits and expert help.
 Pinnacle Group – Your property partner.`,
   ];
 

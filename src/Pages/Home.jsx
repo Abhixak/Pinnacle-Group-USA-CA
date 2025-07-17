@@ -37,7 +37,7 @@ const Home = ({ footerRef }) => {
         />
         <meta
           name="keywords"
-          content="NRI property India, buy property in India, invest in Indian real estate, sell Indian property from USA OR CA"
+          content="NRI property India, buy property in India, invest in Indian real estate, sell Indian property from USA OR Canada"
         />
         <link rel="canonical" href="https://www.nriproperty.uk/" />
       </Helmet>

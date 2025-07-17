@@ -10,7 +10,7 @@ const About = () => {
         <title>About Us | NRI Property USA, CA</title>
         <meta
           name="description"
-          content="Know more about NRI Property USA and NRI Property CA's mission to help NRIs connect with Indian real estate experts."
+          content="Know more about NRI Property USA and NRI Property Canada's mission to help NRIs connect with Indian real estate experts."
         />
         <link rel="canonical" href="https://www.nriproperty.uk/about" />
       </Helmet>

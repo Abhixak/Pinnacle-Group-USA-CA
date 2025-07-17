@@ -9,7 +9,7 @@ const Contact = () => {
         <title>Contact Us | NRI Property USA, CA</title>
         <meta
           name="description"
-          content="Reach out to NRI Property USA or NRI Property CA for buying or selling property in India. Trusted advisors are just a message away."
+          content="Reach out to NRI Property USA or NRI Property Canada for buying or selling property in India. Trusted advisors are just a message away."
         />
         <link rel="canonical" href="https://www.nriproperty.uk/contact" />
       </Helmet>

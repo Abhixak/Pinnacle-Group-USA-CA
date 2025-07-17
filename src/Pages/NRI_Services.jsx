@@ -16,7 +16,7 @@ const NRI_Services = () => {
         />
         <meta
           name="keywords"
-          content="NRI real estate services, property for NRIs, legal help for NRI, invest in India from USA or CA"
+          content="NRI real estate services, property for NRIs, legal help for NRI, invest in India from USA or Canada"
         />
         <link rel="canonical" href="https://www.nriproperty.uk/nri-services" />
       </Helmet>
