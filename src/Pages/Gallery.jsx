@@ -1,13 +1,13 @@
 import React, { useEffect, useRef, useState } from "react";
 import Footer from "../Components/Footer";
-import sampleImg1 from "src/assets/gallery/img1.jpeg";
-import sampleImg2 from "src/assets/gallery/img2.jpeg";
-import sampleVideo1 from "src/assets/gallery/video1.mp4";
-import sampleImg3 from "src/assets/gallery/img3.jpeg";
-import sampleImg4 from "src/assets/gallery/img4.jpeg";
-import sampleImg5 from "src/assets/gallery/img5.jpeg";
+import sampleImg1 from "../assets/gallery/img1.jpeg";
+import sampleImg2 from "../assets/gallery/img2.jpeg";
+import sampleVideo1 from "../assets/gallery/video1.mp4";
+import sampleImg3 from "../assets/gallery/img3.jpeg";
+import sampleImg4 from "../assets/gallery/img4.jpeg";
+import sampleImg5 from "../assets/gallery/img5.jpeg";
 // import sampleImg6 from "../assets/gallery/img6.jpeg";
-import sampleImg7 from "src/assets/gallery/img7.jpeg";
+import sampleImg7 from "../assets/gallery/img7.jpeg";
 
 import PMS from "../Components/PMS";
 
