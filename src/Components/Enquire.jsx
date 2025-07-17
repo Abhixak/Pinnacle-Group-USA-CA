@@ -100,9 +100,12 @@ const EnquiryForm = () => {
             <option value="" disabled hidden>
               Select a Service
             </option>
-            <option>Buy a Property</option>
-            <option>Sell a Property</option>
-            <option>Lease a Property</option>
+            <option>Sell Property</option>
+            <option>Buy Property</option>
+            <option>Legal Documentation</option>
+            <option>Title Clearing</option>
+            <option>Tax and Finance</option>
+            <option>Others</option>
           </select>
 
           <textarea
@@ -115,7 +118,7 @@ const EnquiryForm = () => {
           <div className="md:col-span-2 !mt-4 text-lg font-semibold flex flex-col sm:flex-row justify-center gap-4 items-center">
             <button
               type="submit"
-              className="bg-red-700 text-white !px-6 !py-2 rounded hover:bg-red-800 transition w-full sm:w-auto"
+              className="bg-red-700 text-white !px-6 !py-2 rounded hover:bg-red-800 transition w-full md:w-auto"
             >
               Send Message
             </button>
