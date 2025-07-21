@@ -16,6 +16,7 @@ import Footer from "../Components/Footer";
 import ServicesSection from "../Components/Services";
 import Chatbot from "../Components/Chatbot";
 import { Helmet } from "react-helmet";
+import FreeConsultation from "../Components/FreeConsultation";
 
 const serviceData = {
   selling: {
@@ -109,7 +110,7 @@ const ServiceDetails = () => {
           href={`https://www.nriproperty.uk/services/${serviceType}`}
         />
       </Helmet>
-
+      <FreeConsultation />
       <Chatbot />
       <div className="!m-5 !p-5 bg-gray-100 rounded-xl">
         <h2 className="text-3xl font-bold text-red-600 text-center !mb-4">
