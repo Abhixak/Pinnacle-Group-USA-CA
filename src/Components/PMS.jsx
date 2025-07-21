@@ -6,8 +6,6 @@ import management from "../assets/Management.png";
 import titleClear from "../assets/title Clearing.png";
 import taxSupport from "../assets/tax.png";
 import support24x7 from "../assets/24 x 7.png";
-import FreeConsultant from "../assets/CONSULTATION.png"; // Import the Free Consultation badge
-
 const PMS = () => {
   const services = [
     {
@@ -70,12 +68,7 @@ const PMS = () => {
             key={idx}
             className="relative bg-white !p-6 rounded-xl shadow-md hover:shadow-lg transition text-center flex flex-col items-center hover:no-underline"
           >
-            {/* FREE CONSULTATION badge */}
-            <img
-              src={FreeConsultant}
-              alt="FREE CONSULTATION"
-              className="absolute top-0 right-0 h-20 lg:h-25"
-            />
+
 
             {/* Service Icon */}
             <img
